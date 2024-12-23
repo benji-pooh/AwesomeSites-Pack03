@@ -1,6 +1,8 @@
 # AwesomeSites-Pack03
 
-> collected in [AwesomeSites](https://github.com/ezshine/AwesomeSites)
+pack 3
+
+wowzers
 
 - www.hape.io
 - cleo.show
